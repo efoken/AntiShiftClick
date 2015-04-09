@@ -1,0 +1,11 @@
+name: AntiShiftClick
+main: de.norsecraft.antishiftclick.AntiShiftClick
+version: 1.0
+author: "Eike Foken"
+website: norsecraft.de
+database: false
+permissions:
+  antishiftclick.allow:
+    description: Allows the player to shift-click items in and out of their inventory
+  antishiftclick.seestuff:
+    description: Allows the server admin to get the name of the inventories to add to the config

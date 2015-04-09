@@ -1,0 +1,9 @@
+# Do not put block ID's in here - inventory ID's go in here.
+# To get an inventory ID, give a user the permission "antishiftclick.seestuff"
+# When using that permission to open a block with an inventory, the user will
+# see a value printed to their chatbox. Put that value in the config if you
+# wish to disallow shift-clicking while in that blocks inventory.
+DisallowedBlocks:
+  - container.chest
+  - Para-chest
+  - Computer
